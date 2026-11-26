@@ -12,12 +12,15 @@ I'm a solutions architect and enablement builder. I design the demos, proofs, an
 ## What I build
 
 - Discovery-first demo and proof kits for AI products
+- Hands-on solution design with a sourced ROI model and a pilot plan
 - Enablement systems: role-based learning, coaching rubrics, AI role-plays
 - AI-assisted course and content production
 
 ## Start here
 
 📌 **[discovery-first-demo-kit](https://github.com/aescalante84/discovery-first-demo-kit)**: how I run a technical sale, from discovery to a proof a CFO will sign.
+
+📌 **[fleet-ops-workspace-demo](https://github.com/aescalante84/fleet-ops-workspace-demo)**: a full SE engagement on a fictional fleet: 30-minute discovery-led demo, runnable ROI model with sourced inputs, and a 6-week pilot with a pre-agreed decision rule.
 
 ## Contact
 
