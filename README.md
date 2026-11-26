@@ -21,7 +21,7 @@ I'm a solutions architect and enablement builder. I design the demos, proofs, an
 
 📌 **[discovery-first-demo-kit](https://github.com/aescalante84/discovery-first-demo-kit)**: how I run a technical sale, from discovery to a proof a CFO will sign.
 
-📌 **[fleet-ops-workspace-demo](https://github.com/aescalante84/fleet-ops-workspace-demo)**: a full SE engagement on a fictional fleet: 30-minute discovery-led demo, runnable ROI model with sourced inputs, and a 6-week pilot with a pre-agreed decision rule.
+📌 **[fleet-ops-workspace-demo](https://github.com/aescalante84/fleet-ops-workspace-demo)**: a full SE engagement on a fictional fleet: 30-minute discovery-led demo, runnable ROI model with sourced inputs, and a 6-week pilot with a pre-agreed decision rule. **[Try the live ROI calculator](https://aescalante84.github.io/fleet-ops-workspace-demo/).**
 
 📌 **[poc-scorecard](https://github.com/aescalante84/poc-scorecard)**: should we start this POC or fix something first? Evidence-gated scoring with blockers and next actions.
 
@@ -33,3 +33,4 @@ I'm a solutions architect and enablement builder. I design the demos, proofs, an
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/albertoantonioescalante/)
+
