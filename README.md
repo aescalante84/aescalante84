@@ -28,7 +28,8 @@ I'm a solutions architect and enablement builder. I design the demos, proofs, an
 ## Also
 
 - **[integration-security-reference](https://github.com/aescalante84/integration-security-reference)**: integration discovery checklist, security questionnaire answer guide, and integration patterns.
-- **[call-coaching-webhook-demo](https://github.com/aescalante84/call-coaching-webhook-demo)**: a signed-webhook call-scoring service with a rubric as data and tests. Keyword baseline; LLM path is mocked.
+- **[call-coaching-webhook-demo](https://github.com/aescalante84/call-coaching-webhook-demo)**: a signed-webhook call-scoring service with a rubric as data, tests, and a labeled eval harness. The keyword baseline is measured (68% agreement); the LLM scorer is built and mocked-tested, with live numbers pending.
+- **[ai-solutions-reference](https://github.com/aescalante84/ai-solutions-reference)**: how I handle AI customer questions: data privacy, evals, cost at scale, build vs buy, and pilot scoping.
 
 ## Contact
 
